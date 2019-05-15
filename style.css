@@ -66,6 +66,13 @@ a {
     transition: 0.4s;
     color: #2585c6;
 }
+a1 {
+    text-decoration: none;
+    outline: none;
+    -webkit-transition: 0.4s;
+    transition: 0.4s;
+    color: #FFFFFF;
+}
 
 
 input:focus,
