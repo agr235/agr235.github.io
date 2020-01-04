@@ -362,6 +362,9 @@ a.scrolldown {
 .site2 .header-area {
     background-image: url('images/header-bg-2.jpg');
 }
+.site3 .header-area {
+    background-image: url('images/dirigentestodos.jpg');
+}
 
 .header-area .header-text .header-title {
 	color: #ffffff;
